@@ -1,13 +1,15 @@
 - title: seb's home
-  desicription: charming room with patio
+  description: charming room with patio
   location: paris
   profile: jing.jpg
+  background: card-paris.jpg
 - title: anne's home
-  desicription: lovely house
+  description: lovely house
   location: brusels
   profile: xd.jpg
+  background: card-brussels.jpeg
 - title: rommain's home
-  desicription: nice flat
+  description: nice flat
   location: london
   profile: fei.jpg
-
+  background: card-london.jpeg

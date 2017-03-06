@@ -1,12 +1,8 @@
-/*.btn {
-  background-color: $yellow;
+.btn-primary {
+  transition: all 0.5s ease;
+  border: 1px solid transparent;
   &:hover {
-    opacity: 0.3;
-    color: white;
-    transition: all 0.3s ease;
-  };
+    background-color: lighten($yellow, 10%);
+    border: 1px solid transparent;
+  }
 }
-
-
-
-*/
