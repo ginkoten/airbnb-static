@@ -1,0 +1,21 @@
+# jing:
+#   name: Jing
+#   role: Designer
+
+# xd:
+#   name: XD
+#   role: Coder
+
+# fei:
+#   name: Fei
+#   role: Coder
+
+- name: jing
+  role: designer
+  image: jing.jpg
+- name: xd
+  role: corder
+  image: xd.jpg
+- name: fei
+  role: corder
+  image: fei.jpg
