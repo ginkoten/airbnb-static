@@ -1,11 +1,9 @@
-FROM node:6.9
+FROM ruby:2.4
 
 RUN mkdir /workspace/ -p
 COPY . /workspace/
 WORKDIR /workspace/
 
-RUN npm install
+RUN bundle install
 
-RUN npm run build
-
-CMD npm run start
+CMD rails s
