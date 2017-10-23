@@ -6,6 +6,7 @@ gem 'middleman', '~> 3.4'
 gem 'middleman-deploy', '~> 1.0'
 
 # Assets
+gem 'json'
 gem 'jquery-middleman'
 gem 'bootstrap-sass', '3.3.6'
 gem 'font-awesome-sass', '4.5.0'
